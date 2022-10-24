@@ -1,0 +1,22 @@
+
+{"data":[{
+"pic":"1.png",
+"name":"Mac Pro",
+"price":30000,
+"number":1
+
+},
+{
+    "pic":"2.png",
+    "name":"Apple 13",
+    "price":20000,
+    "number":1
+},
+{
+    "pic":"3.png",
+    "name":"Apple Watch",
+    "price":10000,
+    "number":1
+}],
+"stok":[{"pc":0,"mobil":0,"watch":0}]
+}
